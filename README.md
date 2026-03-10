@@ -122,9 +122,9 @@ Trader/
 ├── README.md             # Документация
 ├── Трейдер.py            # Основная логика
 ├── report_generator.py   # Генератор отчетов
-└── trade_results.xlsx    # История сделок (автосоздается)
-- `docs/` — **Документация по качеству**:
-  - [Чек-листы тестирования](docs/checklists.md)
-  - [Тест-кейсы](docs/test_cases.md)
+├──  trade_results.xlsx    # История сделок (автосоздается)
+└──  docs/                 #Документация по качеству
+  ├── Чек-листы тестирования (docs/checklists.md)
+  ├── Тест-кейсы (docs/test_cases.md)
 ```
 

@@ -124,7 +124,7 @@ Trader/
 ├── report_generator.py   # Генератор отчетов
 ├──  trade_results.xlsx    # История сделок (автосоздается)
 └──  docs/                 #Документация по качеству
-  ├── Чек-листы тестирования (docs/checklists.md)
-  ├── Тест-кейсы (docs/test_cases.md)
+  ├── [Чек-листы тестирования](docs/checklists.md)
+  ├── [Тест-кейсы](docs/test_cases.md)
 ```
 
